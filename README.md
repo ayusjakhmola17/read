@@ -29,8 +29,7 @@
 - 🎮 Playing Football.
 - 🎵 Listening to Music.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiyamTuteja&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaiyamTuteja&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <hr>
 <br>
 
@@ -40,13 +39,8 @@
 
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <br />
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
- 
 
-
-
-  
 </p>
 <Br>
 <!-- <hr> -->
