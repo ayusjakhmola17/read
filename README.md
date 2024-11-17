@@ -18,10 +18,10 @@
 **Talking about Technical Stuffs:**
 
 - 👨🏽‍💻 I’m a first Year Developer student.
-- 🌱 I’m currently learning c , Python and Full Stack Development. 
+- 🌱 I’m currently learning C Programming, DBMS and Python 
 - 💬 Ask me about anything, I am happy to help.
 - 👾 Fun fact:People who are using a computer blink 66% less than those who aren’t..
-- 📝 Do checkout my <a href="Saiyam Resume.pdf">[Resume]<a/>
+- 📝 Do checkout my <a href="">[Resume]<a/>
 <br>
 
 **My Absolute Favorites:**
@@ -44,13 +44,7 @@
 </p>
 <Br>
 <!-- <hr> -->
-<h3>GSSOC(24) Badges</h3>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+
 
 </div>
 
@@ -67,7 +61,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/saiyam-tuteja/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:saiyamtuteja@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/SaiyamTuteja" target="blank"><img align="center" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <br> 
+<a href=" www.linkedin.com/in/ayush-jakhmola- " target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:jakhmolaayush51@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/ayusjakhmola17" target="blank"><img align="center" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <br> 
 </p>
   
 <Br>
@@ -87,7 +81,7 @@
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE;SAYONARA😄" />
 
 -----
-Credits: [Saiyam Tuteja](https://github.com/SaiyamTuteja)
+Credits: [Ayush Kumar Jakhmola]((https://github.com/ayusjakhmola17)
 
-Last Edited on: 24/07/2023 
+Last Edited on: 17/11/2024
  
